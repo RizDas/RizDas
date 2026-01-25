@@ -1,6 +1,3 @@
-# Rishabh Das Here
-
-# About Me:
 Full-Stack Developer | Designer | STEM Enthusiast | Aspiring Data Scientist
 
 
