@@ -1,4 +1,4 @@
-# Full-Stack Developer | Designer | STEM Enthusiast | Aspiring Data Scientist
+## Full-Stack Developer | Designer | STEM Enthusiast | Aspiring Data Scientist
 
 
 ## Socials:
