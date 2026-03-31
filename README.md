@@ -2,7 +2,7 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-das-rd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dkkrishabh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30320007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ridash_jr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkkrishabh@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-das-rd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ridash_jr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkkrishabh@gmail.com) 
 
 ## Tech Stack:
 <!--
