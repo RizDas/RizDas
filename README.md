@@ -1,4 +1,4 @@
-## Frontend Developer · Next.js & React · I build fast, clean websites for businesses and individuals.
+## Fullstack Developer · Next.js & React · I build fast, clean websites for businesses and individuals.
 
 
 ## Socials:
